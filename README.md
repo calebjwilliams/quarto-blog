@@ -1,5 +1,2 @@
 # <quarto-blog>
-# <quarto-blog>
-# <quarto-blog>
-# quarto-blog
-# quarto-blog
+Homework assignments for PIC16B at UCLA Fall 2024
